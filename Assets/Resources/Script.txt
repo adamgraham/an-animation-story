@@ -1,0 +1,47 @@
+[scene-reset]
+
+Once upon a time...
+[girl-tree-stump-happy] There was a girl named Design.
+Ahh, but you see, Design was not happy.
+[girl-tree-stump-sad, girl-rain-cloud-on] She had just had her heart broken.
+Long story short, some boy named Engineering...well it just didn't work out.
+Design sat alone, crying, unsure of what was next.
+She felt motionless; time escaped her.
+[scene-rain-on, girl-rain-cloud-off]
+
+[girl-tree-sitting] One day, while sitting down under a tree...
+[boy-tree-peaking] a boy came up to Design.
+[girl-tree-talking, boy-tree-talking] "Hi! What's your name?", he said.
+"Uhh, hi, my name is Design"
+"Hi Design, my name is Animation!"
+
+[scene-rain-off, girl-tree-stump-talking; boy-tree-stump-talking] The two soon developed a strong connection. 
+They hung out everyday..talking, sharing ideas, exploring, you name it.
+[scene-fire-on, girl-fire-sitting, boy-fire-sitting] He slowly lit a spark in her heart.
+
+Until one day...
+[boy-removed] Animation just stopped showing up.
+[girl-alone, scene-fire-off, scene-rain-on] Design was confused and lost. "Is he okay? Where is he?", she pondered.
+The days went by...
+And by...
+
+[girl-fire-standing, scene-fire-on, scene-rain-off] Design was standing by the bonfire, when unexpectedly...
+[boy-fire-standing] Animation finally returned.
+"Where have you been!?", Design asked concerningly.
+"You just disappeared without saying anything"
+"I'm so sorry!", he replied.
+"The other day on my way home, I took the wrong path, stumbled, and hit my head"
+"I had to go see a doctor for a little while"
+"I guess you could say I was lovestruck"
+She blushed.
+
+"I have a surprise for you", he said.
+[boy-holding-rope]
+[boy-fire-standing]"I noticed your swing was broken, so I got some more rope to fix it"
+She forgave him, and they proceeded to fix the swing together.
+[scene-tire-fixed, girl-tree-swinging, boy-tree-swinging]
+
+Reconnected they were.
+Side by side, the two eased through life together and lived happily ever after.
+The end.
+  

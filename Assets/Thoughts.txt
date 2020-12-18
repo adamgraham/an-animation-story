@@ -1,0 +1,50 @@
+Hi everyone,
+
+I'm supposed to talk about animations today, and I will...kind of.
+But, I'd like to do something a little different.
+I'm not going to show any code or really get into the technical details of anything.
+Rather, I want to share an idea...a mindset.
+I'm not trying to force anything on anyone, but I think it's important for what we do.
+Allow me to share a story that I created.
+We'll talk about it after, and I'll explain my thoughts.
+Cool?
+
+Also, note, the gender of the characters in the story is not important.
+It is merely an illustration of one perspective.
+
+
+
+Storytime...
+
+
+
+So, what the heck was that all about?
+And what ever happened to Engineering?
+Well, this story highlights the Design-Engineering mindset, or rather the lack of.
+Too often do I see us breaking designers' hearts.
+It seems implementing a design exactly as it was created often purposes a problem.
+But instead of solving the problem, we find ways to avoid it.
+"Oh this increases technical complexity a ton, let's simplify"
+"Oh this skyrockets our scope, let's do this later (aka never)"
+Specifically, implementing animations is a common trigger to these excuses.
+
+Why is it so important to not break out designers hearts?
+In my opinion, a great design tells a story. It invokes emotions and brings character to the product.
+Animation is one great tool in a designer's toolbelt that brings energy to a design.
+It is a story in of itself - the change of values over time from one point to another.
+You see, when we find reasons to not fulfill a designer's creation, to not implement their animations, or any other design element for that matter, we are taking the life out of the design.
+We are stripping it of character and emotion.
+
+What ever happened to Engineering?
+Perhaps he makes an epic return in Chapter 2. Perhaps not.
+It is our job as engineers to create Chapter 2...to not break our designers hearts.
+And, so, honestly I don't see the value in sitting here and showing you how to implement animations.
+Because, I believe, that without a Design-Engineering mindset, we will continue to find excuses not to meet design face to face.
+I don't think you all need to be as passionate about design or animation as I am, but I think we all have to at least appreciate what it is a designer does, and the impact their designs have on a product.
+
+I encourage everyone to work very closely with your designers.
+Understand what it is they do everyday, what problems they think about, and what tools they use to solve those problems.
+The best way to understand a designer is to become one.
+This, in my opinion, is what the Design-Engineering mindset is all about.
+Thank you.
+
